@@ -14,8 +14,8 @@
   },
   "homepage": "hhttps://github.com/a73-inuit/objects.md-icon",
   "dependencies": {
-    "a73-inuit-md-icon-settings": "~0.1.0",
-    "a73-inuit-md-icon-generics": "~0.1.0"
+    "a73-inuit-md-icon-settings": "^0.1.0",
+    "a73-inuit-md-icon-generics": "^0.1.0"
   },
   "keywords": [
     "inuitcss",
