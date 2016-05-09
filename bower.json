@@ -1,6 +1,6 @@
 {
   "name": "a73-inuit-md-icon-objects",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/a73-inuit/objects.md-icon",
   "authors": [
     "Rodrigo Erades <rerades@siete3.com>"
@@ -16,8 +16,8 @@
     "Material Design"
   ],
   "dependencies": {
-    "a73-inuit-md-icon-settings": "~0.1.3",
-    "a73-inuit-md-icon-generics": "~0.1.3"
+    "a73-inuit-md-icon-settings": "^0.1.3",
+    "a73-inuit-md-icon-generics": "^0.1.4"
   },
   "license": "MIT"
 }
