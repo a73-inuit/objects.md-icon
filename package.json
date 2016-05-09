@@ -1,6 +1,6 @@
 {
   "name": "a73-inuit-md-icon-objects",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Font Icon Object to use within InuitCSS, based on Material Design font from google",
   "main": "_objects.md-icon.scss",
   "repository": {
