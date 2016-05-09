@@ -8,8 +8,30 @@
 
 // Predefine the variables below in order to alter and enable specific features.
 
+$inuit-md-font-size: 24px !default;
+
 
 .#{$inuit-md-namespace}md-icon {
 
+    direction: ltr;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: '#{$inuit-md-family}';
+    font-feature-settings: 'liga';  /* Preferred icon size */
+    font-size: $inuit-md-font-size;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    -moz-osx-font-smoothing: grayscale;
 
+    /* Support for all WebKit browsers. */
+    text-rendering: optimizeLegibility;
+    /* Support for Safari and Chrome. */
+    text-transform: none;
+    /* Support for Firefox. */
+    white-space: nowrap;
+    /* Support for IE. */
+    word-wrap: normal;
 }
