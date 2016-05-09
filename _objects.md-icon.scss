@@ -27,7 +27,8 @@ $inuit-md-icon-horizontal-paddings: (
     display: inline-block;
     vertical-align: middle;
     font-family: '#{$inuit-md-family}';
-    font-feature-settings: 'liga';  /* Preferred icon size */
+    font-feature-settings: 'liga';
+    /* Preferred icon size */
     font-size: $inuit-md-icon-font-size;
     -webkit-font-smoothing: antialiased;
     font-style: normal;
